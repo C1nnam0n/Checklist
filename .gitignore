@@ -184,4 +184,11 @@ _deps
 .history
 .ionide
 
+### clangd
+# Ignore all cache
+.cache
+
+### additional build scripts
+build
+
 # End of https://www.toptal.com/developers/gitignore/api/clion,c++,visualstudiocode,cmake
